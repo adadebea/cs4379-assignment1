@@ -1,0 +1,7 @@
+"# CS4379G: Data Analysis & Visualization Assignment 1" 
+"## Student: Your Full Name" 
+"## Course: CS4379G" 
+"" 
+"This repository contains my work for Assignment 1, which includes:" 
+"- Git/GitHub practice with branching and pull requests" 
+"- Data analysis of Netflix titles using Python/Jupyter notebook" 
